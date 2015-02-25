@@ -5,3 +5,4 @@ Git tracks changes of files.
 the first push
 the second push
 Creating a branch is quick and simple.
+Git can merge branchs.
