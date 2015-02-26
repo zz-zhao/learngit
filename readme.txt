@@ -1,4 +1,4 @@
-#grabi the branch and fix the conflict
+#Grabing the branch and fixing the conflict
 Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has mutable index called stage.
